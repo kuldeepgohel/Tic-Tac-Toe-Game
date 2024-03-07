@@ -9,7 +9,8 @@ var oscore = document.querySelector(".Oscore");
 var turnO = true; // player X,player O
 var xs = 0;
 var os = 0;
-var tictac;
+
+
 const winPatterns = [[0, 1, 2],
 [0, 3, 6],
 [0, 4, 8],
